@@ -1,0 +1,10 @@
+{
+  "espacio": 3,
+  "bytes": 214,
+  "limite": 1073741824,
+  "porcentaje": 0,
+  "archivo_mayor": "uso.json",
+  "archivo_mayor_bytes": 188,
+  "limite_archivo": 104857600,
+  "alerta": false
+}
